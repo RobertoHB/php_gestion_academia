@@ -1,6 +1,1 @@
-sfgsdfgsdfgsdfg
-slfjgsfdkgjsdflgjsdfg
-dsfgjsdfgsdfgsdfg
-sd
-gsdfgsdfgsdf
-gsdfgsdfgsdfg
+Creación de base de datos de alumnos, clases y profesores
